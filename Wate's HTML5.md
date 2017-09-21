@@ -1,11 +1,18 @@
-# What's Html5例子 #
+#What's Html5例子
 -----
-### WEBAPP类 ###
+###WEBAPP类
 * [ofo]()
 
 ![](http://www.ofo.so/dist/images/download/phone.png)
 
-### 流媒体类 ###
+* 微信小程序
+
+
+![](https://i.imgur.com/0PJZazl.jpg)
+![](https://i.imgur.com/NmIVbhO.jpg)
+
+
+###流媒体类
 
 *  audio
 
@@ -14,7 +21,7 @@
 			  <source src="horse.mp3" type="audio/mpeg">
 			  您的浏览器不支持 audio 元素。
 			</audio>
-##### 属性说明 #####
+#####属性说明
 
 1.autoplay 	如果出现该属性，则音频在就绪后马上播放。
 
@@ -29,7 +36,7 @@
 6.src 规定音频文件的 URL。
 
 
-##   ##
+##
 
 * video
 
@@ -39,7 +46,7 @@
 			 您的浏览器不支持 video 标签。
 		</video>
 
-##### 属性说明 #####
+#####属性说明
 
 1.autoplay 如果出现该属性，则视频在就绪后马上播放。
 
@@ -59,12 +66,17 @@
 
 9.width 设置视频播放器的宽度。
 
+##
 
+相比于flash
 
+![](https://i.imgur.com/vJxfIue.png)
 
-### 游戏类 ###
+代码上
 
-canvas画布
+![](https://i.imgur.com/gNRnAWO.png)
+
+###游戏类
 
 > 代表框架：[Hilo](http://hiloteam.github.io/index.html),是阿里打造的，[Hilo](http://hiloteam.github.io/index.html)作为一个跨终端的互动游戏解决方案。它的源码和架构是无依赖的，模块化的。同时也是开源的。
 
@@ -86,17 +98,28 @@ Flappy Bird 是某段时间iOS上红极一时的一个简单的像素设计小�
 
 ![](https://img.alicdn.com/tps/TB17hJyLVXXXXcTXVXXXXXXXXXX-640-320.png)
 
-### svg类 ###
+* [疯狂的触手](http://www.yyyweb.com/demo/crazy-tentacles/)
 
-矢量绘图
+![](http://yyyweb.qiniudn.com/uploads/2017/08/14b21233a22d80200d0ec5b74ee5c3ab.jpg)
 
+* []()
+
+###svg类
 >代表框架： [bonsaijs](http://bonsaijs.org/)
 
+点赞效果实现：
 
-### wbjl类 ###
-3d绘图协议
+![](https://github.com/OYsun/VueStar/raw/master/src/images/color02.gif)
+
+###wbjl类
 > 代表框架：[tree.js](https://threejs.org/)
 
 * [UP2017预热站](http://up.qq.com/act/a20170301pre/index.html) 
 
 ![](http://game.gtimg.cn/images/tgideas/act/a20170426botest/170426upblog/images/05.gif)
+
+* [3d地球](http://www.webglearth.com/)
+
+![](http://desertcinema.com/wp-content/uploads/2016/09/earth.jpg?_=5988493)
+
+* 
